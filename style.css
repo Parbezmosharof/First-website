@@ -1,0 +1,31 @@
+.ab{
+    text-align: center;
+    color: brown;
+    border: 1px solid;
+    background-color: turquoise;
+}
+.xx{
+    color: firebrick;
+    font-weight: 900;
+    font-size: 20px;
+}
+h3{
+    color: darkslategray;
+}
+h1{
+    text-align: center;
+    color: teal;
+}
+.blog{
+    border: 0px solid ;
+    border-radius: 15px;
+    margin: 20px;
+    width: 28%;
+    padding: 10px;
+    display: inline-block;
+    background-color:black;
+    box-shadow:5px 7px 16px red;
+}
+p{
+    color : white;
+}
